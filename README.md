@@ -6,16 +6,16 @@ Ranks five-card poker hands.
 Description
 -----------
 
-Poker_Evaluator ranks poker hands passed to class Pokerhand with five-card arrays. This evaluator can sort multiple poker hands based on their rank, as well as give a short description of the hands. Duplicate cards in the same poker hand will raise an error, but different poker hands with duplicate cards may still be compared.
+Poker_Evaluator ranks poker hands passed to class Pokerhand with five-card arrays. The evaluator can sort multiple poker hands based on their rank and give a description of each hand. Duplicate cards in the same poker hand will raise an error, but different poker hands with duplicate cards can still be compared.
 
 
-To run the evaluator yourself, uncomment the last line in lib/pokerhand.rb, or make your own in the style shown below.
+To run the evaluator yourself, uncomment the last line in lib/pokerhand.rb, or make your own Pokerhands as shown below.
 
 Example
 -------
 
 
-Here are some new Pokerhand classes that are already loaded by pokerhand.rb:
+Here are some example Pokerhands that are already loaded by pokerhand.rb:
 ```
 RoyalFlush = %w{QC KC JC AC TC}		
 Straight5 = %w{2C 3D 4H AC 5S}		
