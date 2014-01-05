@@ -266,4 +266,4 @@ n = Pokerhand.new(PairNine)
 u = Pokerhand.new(StraightFlushFiveHigh)
 
 #Uncomment the next line to see everything in action
-poker([a, r, d, n, z, w, h, g, u, q, m])
+#poker([a, r, d, n, z, w, h, g, u, q, m])

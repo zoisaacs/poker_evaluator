@@ -1,5 +1,5 @@
 
-#Successfully passes 18 tests on full_poker.rb, which contains everything in lib in one file. Execute "rspec spec" in Terminal on the project directory "poker_hand_evaluator" to see them pass.
+#Successfully passes 18 tests on full_poker.rb, which contains everything in lib in one file. Execute "rspec spec" in Terminal on the project directory "poker_evaluator" to see them pass.
 require 'spec_helper'
 
 describe Pokerhand do
