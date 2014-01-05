@@ -1,3 +1,4 @@
+#This behemoth file is the sum of the files organized in the 'lib' directory.
 
 #Pokerhand generates the ranking and classification of five-card poker hands and allows them to be sorted based on their ranks. The cards in Pokerhand are always a five-card array.
 class Pokerhand
